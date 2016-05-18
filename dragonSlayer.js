@@ -10,7 +10,7 @@ while(playConf){
 		
 		//Setting varables
 		
-		/*Gold variables
+		Gold variables
 		
 		var totalGold= 100
 		
@@ -21,7 +21,7 @@ while(playConf){
 		var stoneSword=25
 		var ironSword=50
 		var diamondSword=75
-		*/
+		
 		
 		
 		var weapon=prompt("Select weapon- Bow (high accuracy), Sword (balanced) or Spear (high damage)","Bow, sword or spear").toUpperCase()
